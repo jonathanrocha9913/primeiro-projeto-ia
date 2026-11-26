@@ -35,3 +35,15 @@ _Avoid_: Citação simples, referência solta, lastro informal
 **Trecho-fonte**:
 Citação literal extraída do estudo original que sustenta um achado; quando falta ou é apenas resumo/paráfrase, o achado carrega o aviso "sem trecho literal".
 _Avoid_: Resumo do revisor, paráfrase sem aviso, citação inventada
+
+**Matriz de síntese**:
+Tabela organizada por **Tema** que reúne **Achados** e preserva a ligação de cada resultado ao **Estudo** e ao **Trecho-fonte**, com os avisos de rastreabilidade necessários.
+_Avoid_: Resumo sem fontes, tabela de artigos
+
+**Possível repetição**:
+Sinalização provisória de semelhança entre **Achados** de **Estudos** diferentes, sujeita à confirmação ou rejeição pela pesquisadora. Não equivale, por si só, a um **Achado repetido** confirmado.
+_Avoid_: Repetição confirmada automaticamente, duplicata detectada
+
+**Tema**:
+Categoria de conteúdo que reúne **Achados** relacionados à pergunta da revisão. Um mesmo **Achado** pode estar relacionado a mais de um tema sem se tornar outro achado.
+_Avoid_: Artigo, desfecho obrigatório, achado
